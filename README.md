@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **imismail428@gmail.com**
 
-- ⚡ Fun fact **I am enthusiastic in Software Development.**
+- ⚡ Fun fact **I am enthusiastic in Learning New Technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
