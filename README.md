@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Angular Framework & Microservices**
+- 🌱 I’m currently learning **Angular Framework & Javascripts**
 
 - 💬 Ask me about **Software Development through Core Java(JSE),Advanced Java(JEE),Spring Framework,Hibernate Framework & MySQL Database**
 
