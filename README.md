@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhismail087&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhismail087" /> </p>
 
-- 🔭 I’m currently working on **AEM & SpringBoot Batch**
+- 🔭 I’m currently working on **AEM & Spring Batch**
 
 - 🌱 I’m currently learning **Angular Framework & Javascripts**
 
