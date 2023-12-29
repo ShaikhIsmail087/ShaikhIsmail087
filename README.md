@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhismail087&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhismail087" /> </p>
 
-- 🔭 I’m currently working on **React & Spring Batch**
+- 🔭 I’m currently working on **AEM CMS**
 
-- 🌱 I’m currently learning **Angular Framework & Javascripts**
+- 🌱 I’m currently learning **React & Spring Batch**
 
 - 💬 Ask me about **Software Development through Core Java(JSE),Advanced Java(JEE),Spring Framework,Hibernate Framework & MySQL Database**
 
