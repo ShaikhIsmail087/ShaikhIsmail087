@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AEM CMS**
 
-- 🌱 I’m currently learning **React & Spring Batch**
+- 🌱 I’m currently learning **Spring Batch**
 
 - 💬 Ask me about **Software Development through Core Java(JSE),Advanced Java(JEE),Spring Framework,Hibernate Framework & MySQL Database**
 
