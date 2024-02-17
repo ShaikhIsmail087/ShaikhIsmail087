@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhismail087&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhismail087" /> </p>
 
-- 🔭 I’m currently working on **JEE**
+- 🔭 I’m currently working on **JEE Project**
 
 - 🌱 I’m currently learning **Spring Batch and SQL**
 
