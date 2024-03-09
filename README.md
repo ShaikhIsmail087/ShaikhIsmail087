@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JEE Project**
 
-- 🌱 I’m currently learning **Spring Batch and SQL**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 💬 Ask me about **Software Development through Core Java(JSE),Advanced Java(JEE),Spring Framework,Hibernate Framework & MySQL Database**
 
